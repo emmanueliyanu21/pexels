@@ -1,0 +1,69 @@
+
+.bg-navbar {
+    background-color: transparent;
+    color: #fff;
+}
+
+.navbar-nav li a {
+    color: #fff!important;
+}
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+
+.btn-upload {
+    background-color: #05a081;
+    color: #fff;
+    border-radius: 4px;
+    font-weight: bold;
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+}
+
+.navbar-brand img {
+    max-width: 10%;
+    border-radius: 8px;
+}
+
+.navbar-brand span {
+    color: #fff;
+    font-weight: bold;
+}
+/* Navbar ends here */
+
+.landing-page-caption h2 {
+    /* max-width: 60%; */
+    font-size: 36px!important;
+    /* max-width: 45%; */
+    /* margin: auto; */
+    text-align: left!important;
+    padding-bottom: 15px;
+}
+
+.landing-page-caption {
+    max-width: 50%;
+    margin: auto auto;
+    padding-top: 10rem;
+    padding-bottom: 8rem;
+    color: #fff;
+}
+
+.landing-page-caption input {
+    /* max-width: 50%; */
+    /* margin: auto; */
+    padding-top: 14px!important;
+    padding-bottom: 14px!important;
+}
+
+.landing-page-caption span {
+    font-size: 13px;
+    opacity: 0.8;
+}
+
+.bk-landing-page {
+    background: url("/pexels/img/landing-page.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
